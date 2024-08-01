@@ -31,5 +31,5 @@ The German Credit dataset is used for this project. It contains 1000 instances a
 
 <h2>Project Screenshot:</h2>
 
-![Dash2](https://github.com/user-attachments/assets/96f0d6c1-0b43-4bba-9aff-793d7da70003)</br>
-![Dash](https://github.com/user-attachments/assets/0647f3d7-83d6-427b-89b4-85b300755617)
+![Plotting](https://github.com/user-attachments/assets/0782ea60-b054-48e7-b480-600a30eb988b)
+
