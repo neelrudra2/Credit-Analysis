@@ -24,7 +24,7 @@ The German Credit dataset is used for this project. It contains 1000 instances a
 2. Libraries:</br>&nbsp;&nbsp;&nbsp;&nbsp;
     i. Data Handling: Pandas, NumPy</br>&nbsp;&nbsp;&nbsp;&nbsp;
     ii. Visualization: Matplotlib, Seaborn</br>&nbsp;&nbsp;&nbsp;&nbsp;
-    iii. Machine Learning: Scikit-learn</br>&nbsp;&nbsp;&nbsp;&nbsp;
+    iii. Machine Learning: Scikit-learn</br>
 3. Development Environment: Visual Studio Code</br>
 4. Repository Hosting: GitHub.
 
