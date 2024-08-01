@@ -4,7 +4,7 @@
 This project aims to build, evaluate, and interpret machine learning models to predict credit risk using the German Credit dataset. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, evaluation, and model interpretation. The models used are Logistic Regression, Decision Tree, and Random Forest.
 
 <h2>Dataset</h2>
-The German Credit dataset is used for this project. It contains 1000 instances and 20 attributes plus the target variable indicating the credit risk
+The German Credit dataset is used for this project. It contains 1000 instances and 20 attributes plus the target variable indicating the credit risk.
 
 <h2>Features</h2>
 1. Data Preprocessing: Loads and preprocesses the data, handling missing values and encoding categorical variables.<br>
